@@ -7,14 +7,12 @@ AuthDefender is a robust authentication solution designed to enhance security me
 1. **State-of-the-Art Authentication API Endpoint**: AuthDefender introduces an innovative authentication API endpoint, revolutionizing security protocols and access controls.
 2. **Meticulous User Credential Validation**: Through meticulous validation procedures, AuthDefender ensures the integrity of incoming requests by rigorously validating user IDs and passwords.
 3. **Seamless Generation of Authorization Codes**: AuthDefender engineers a seamless system for generating valid authorization codes, strengthening the foundation for secure and authorized access in future requests.
-<br>
 <h3> Technologies Used </h3>
 
 - Java
 - Spring Boot
 - IntelliJ Idea
 - Postman
-<br>
 
 <h3> Usage </h3>
 To utilize AuthDefender's powerful authentication capabilities, simply integrate it into your GitHub repositories.
